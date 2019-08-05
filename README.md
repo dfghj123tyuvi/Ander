@@ -2,9 +2,9 @@
   <h2>必修部分</h2>
 <ul>
   <li><a href="https://dfghj123tyuvi.github.io/Compulsory-English/%E5%BF%85%E4%BF%AE%E4%B8%80">New senior English for China student's book 1</a></li>
-  <li><a href="about:blank">New senior English for China student's book 2</a></li>
-  <li><a href="about:blank">New senior English for China student's book 3</a></li>
-  <li><a href="about:blank">New senior English for China student's book 4</a></li>
+  <li><a href="https://dfghj123tyuvi.github.io/Compulsory-English/404.html">New senior English for China student's book 2</a></li>
+  <li><a href="https://dfghj123tyuvi.github.io/Compulsory-English/404.html">New senior English for China student's book 3</a></li>
+  <li><a href="https://dfghj123tyuvi.github.io/Compulsory-English/404.html">New senior English for China student's book 4</a></li>
 </ul>
 <h2>选修部分</h2>
 <h2>新概念英语</h2>
