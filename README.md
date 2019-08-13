@@ -19,5 +19,3 @@
 <p><a href="https://list.youku.com/show/id_z09fdeac8c47311e3a705.html?spm=a2h0k.11417342.soresults.ddetail">李雷说英语</a></p>
 <p><a href="http://fanyi.youdao.com/">有道翻译</a>   <a href="https://translate.google.cn/">Google翻译</a></p>
 <p>如果你有更好的建议，欢迎提出。</p>
-      
-    <script type="text/javascript" src="http://mediaplayer.yahoo.com/js"></script>
