@@ -7,7 +7,8 @@
   <li><a href="https://dfghj123tyuvi.github.io/Compulsory-English/404.html">New senior English for China student's book 4</a></li>
 </ul>
 <h2>选修部分</h2>
-<h2><a href="https://dfghj123tyuvi.github.io/Compulsory-English/listening">听力</a></h2>
+<h2>听力</h2>
+<p><a href="https://dfghj123tyuvi.github.io/Compulsory-English/listening">这里进入</a></p>
 <h2>新概念英语</h2>
 <p>这里提供网页地址供参考.<a href="http://www.tingroom.com/">听力室</a></p>
 <ul>
