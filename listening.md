@@ -14,7 +14,7 @@
     - <a href="/Compulsory-English/resources/必修一/unit3 using language.mp3">using language</a>
 - Unit 4 Earthquake
     - <a href="/Compulsory-English/resources/必修一/unit4 word.mp3">word</a>
-    - <a href="/Compulsory-English/resources/必修一/unit5 reading.mp3">reading</a>
+    - <a href="/Compulsory-English/resources/必修一/unit4 reading.mp3">reading</a>
     - <a href="/Compulsory-English/resources/必修一/unit4 using language.mp3">using language</a>
 - Unit 5 Nelson Mandela,a modern hero
     - word
