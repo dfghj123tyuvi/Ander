@@ -17,7 +17,19 @@
     - <a href="/Compulsory-English/resources/必修一/unit4 reading.mp3">reading</a>
     - <a href="/Compulsory-English/resources/必修一/unit4 using Language.mp3">using language</a>
 - Unit 5 Nelson Mandela,a modern hero
-    - word
-    - reading
-    - using language
-##  必修二
+    - <a href="/Compulsory-English/resources/必修一/unit5 word.mp3">word</a>
+    - <a href="/Compulsory-English/resources/必修一/unit5 reading.mp3">reading</a>
+    - <a href="/Compulsory-English/resources/必修一/unit5 using language.mp3">using language</a>
+## 必修二
+- Unit 1 Cultural relics
+    - <a href="/Compulsory-English/resources/必修二/2unit1 word.mp3">word</a>
+    - <a href="/Compulsory-English/resources/必修二/2unit1 reading.mp3">reading</a>
+    - <a href="/Compulsory-English/resources/必修二/2unit1 using language.mp3">using language</a>
+- Unit 2 The Olympics Games
+    - <a href="/Compulsory-English/resources/必修二/2unit2 word.mp3">word</a>
+    - <a href="/Compulsory-English/resources/必修二/2unit2 reading.mp3">reading</a>
+    - <a href="/Compulsory-English/resources/必修二/2unit2 using language.mp3">using language</a>
+- Unit 3 Computers
+    - <a href="/Compulsory-English/resources/必修二/2unit3 word.mp3">word</a>
+    - <a href="/Compulsory-English/resources/必修二/2unit3 reading.mp3">reading</a>
+    - <a href="/Compulsory-English/resources/必修二/2unit3 using language.mp3">using language
